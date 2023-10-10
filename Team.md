@@ -7,7 +7,6 @@
 ### 1. 소스코드는 압축하여 깃허브에 업로드 하였습니다.
 
 ### 2. 결과 화면
-
 ![image](https://github.com/qkrgudals1030/TeamVisual/assets/50895124/853fe376-c0ec-416e-a889-5da583aa3bb6)
 
 ![image](https://github.com/qkrgudals1030/TeamVisual/assets/50895124/380c1e94-f87c-4629-9992-69975744a9b2)
